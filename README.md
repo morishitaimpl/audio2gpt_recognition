@@ -1,2 +1,2 @@
-# audio2gpt_recognition_
+# audio2gpt_recognition
 鳥の鳴き声をGPTモデルに入力して鳥類の識別をする
